@@ -108,7 +108,7 @@ digits_recognition/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/digits_recognition.git
+   git clone https://github.com/Nithwin/digits_recognition.git
    cd digits_recognition
    ```
 
